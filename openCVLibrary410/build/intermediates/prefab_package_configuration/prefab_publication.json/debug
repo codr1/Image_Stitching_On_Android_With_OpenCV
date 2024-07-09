@@ -1,0 +1,50 @@
+{
+  "installationFolder": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":openCVLibrary410",
+  "packageInfo": {
+    "packageName": "openCVLibrary410",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": [
+          {
+            "abiName": "armeabi-v7a",
+            "abiApi": 21,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\armeabi-v7a\\libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\armeabi-v7a\\android_gradle_build.json"
+          },
+          {
+            "abiName": "arm64-v8a",
+            "abiApi": 21,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\arm64-v8a\\libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\arm64-v8a\\android_gradle_build.json"
+          },
+          {
+            "abiName": "x86",
+            "abiApi": 21,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\x86\\libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\x86\\android_gradle_build.json"
+          },
+          {
+            "abiName": "x86_64",
+            "abiApi": 21,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\x86_64\\libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\vess\\AndroidStudioProjects\\OpenCVAndroid\\openCVLibrary410\\.cxx\\Debug\\11l4l5o5\\x86_64\\android_gradle_build.json"
+          }
+        ]
+      }
+    ]
+  }
+}
